@@ -1,0 +1,44 @@
+*{
+    background-color: #040D12;
+    /* color : #93B1A6 ; */
+}
+p{
+    color : #93B1A6;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,   sans-serif;
+    color: #183D3D;
+    text-underline-position: below;
+    font-style: italic;
+    text-decoration: underline;
+}
+li{
+    list-style: circle;
+    color:#93B1A6;
+}
+img:hover{  
+    transform: scale(1.1);
+    transition-duration: 1ms ease-in-out;
+    /* transi */
+    /* tra */
+}
+img{
+    border-radius: 5px;
+}
+h1{
+    font-weight: bolder;
+    color: #183D3D;
+}
+a{
+  color : #183D3D;
+  text-decoration: none;
+}
+a:hover{
+    color : #93B1A6;
+}
+a:visited{
+    text-decoration: underline;
+}
+div{
+    text-align: justify;
+}
